@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/5d2013ea39502e59.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/5d2013ea39502e59.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"4GYhKtkj4nnNGobm40Szf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"author","href":"https://jlsu-dev.github.io/"}],["$","meta","1",{"name":"author","content":"全国労働支援組合"}],["$","meta","2",{"name":"google-site-verification","content":"pSdVFeAymM45vxE_44nSsWcXZOE540cvovoZ88AIJ18"}],["$","meta","3",{"name":"twitter:card","content":"summary"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
